@@ -1,4 +1,4 @@
-# Acordeón para la certificación AI-103 de Azure AI Apps and Agents Developer Associate (beta)
+# Acordeón para la certificación AI-103 de Azure AI Apps and Agents Developer Associate
 
 > [!NOTE]  
 > A pesar de que este acordeón te pueda ayudar te recomiendo que tu principal fuente sea Microsoft Learn
