@@ -26,9 +26,9 @@ Aquí están los Kahoot ensayo de examen de AI-103
 Aquí tienes el código de todas las prácticas de a certificación
 
 - [Practicas 1: AI Agents](https://github.com/josejesusguzman/practicas1-ai-agents-ai103)
-- [Practicas 2: AI Studio]()
-- [Practicas 3: AI Language]()
-- [Practicas 4: AI Vision]()
+- [Practicas 2: AI Studio](https://github.com/josejesusguzman/practicas2-ai-studio-ai103)
+- [Practicas 3: AI Language](https://github.com/josejesusguzman/practicas3-ai-language-ai103)
+- [Practicas 4: AI Vision](https://github.com/josejesusguzman/practicas4-ai-vision-ai103)
 
 
 ---
