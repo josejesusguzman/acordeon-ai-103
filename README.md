@@ -12,6 +12,9 @@ Este es mi acordeón para ayudarte a pasar la certificación AI-103 de Azure Azu
 
 Curso oficial: **[AI-103T00: Desarrollo de aplicaciones y agentes de IA en Azure](https://learn.microsoft.com/es-es/training/courses/ai-103t00)**
 
+> [!WARNING]  
+>**Lee esto primero: [Tips y hacks para certificaciones Microsoft](docs/modulo1/tema0-tips-ms-exam.md)**
+
 ## Examenes de prueba
 
 Aquí están los Kahoot ensayo de examen de AI-103
